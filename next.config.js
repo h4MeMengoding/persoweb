@@ -9,7 +9,7 @@ const config = (phase) => {
     let plugins = [nextImages];
     let settings = {
         reactStrictMode: true,
-        distDir: "build",
+        // distDir: "build",
         // pwa: {
         //     dest: "public",
         //     runtimeCaching,
