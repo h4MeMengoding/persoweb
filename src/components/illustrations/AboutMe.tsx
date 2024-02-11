@@ -21,7 +21,7 @@ export default function AboutMeIllustration({ ...props }) {
     } else {
         return (
             <>
-                <img data-aos="pulse" width={400} src="/images/me.jpg" alt="megtg" className="img-responsive" />
+                <img data-aos="fadeIn" width={400} src="/images/me.jpg" alt="megtg" className="img-responsive" />
             </>
         );
     }

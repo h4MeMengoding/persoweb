@@ -15,13 +15,13 @@ import ScrollToTop from "@/components/ScrollToTopButton";
 import MetaTags from "@/components/MetaTags";
 
 const metaData = {
-    title: "Ilham Shofa - Fullstack Developer",
-    description: "Hello! I’m Rafly, a fullstack developer, designer, and producer, from Indonesia.",
-    url: "https://raflymaulana.me",
-    image: "https://raflymaulana.me/images/banner.png",
+    title: "Hame On Here!",
+    description: "Personal website Ilham Shofa, it's time for me to introduce you!",
+    url: "https://hame.my.id",
+    image: "https://hame.my.id/images/banner.png",
     themeColor: "#ffffff",
-    keywords: "rafly, maulana, ui, ux, programmer, developer, backend, frontend, designer, indonesia, website, producer, fullstack, freelance, freelancer",
-    author: "Rafly Maulana",
+    keywords: "ilham, shofa, smanse, osissmanse, semarang, frontend, backend, programmer, desain, editor",
+    author: "Ilham Shofa",
     charSet: "utf-8",
     language: "English",
     icons: [
